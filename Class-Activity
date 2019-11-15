@@ -1,0 +1,19 @@
+STEP 1 - STAGING
+
+git add
+
+or
+
+git add -A
+
+STEP 2 - COMMIT
+
+*will pick up on deletions too*
+
+git commit -m "message about what you did here
+
+STEP 3 - PUSH TO GITHUB
+
+// tell git we want to push to master branch on github
+
+git push origin master
